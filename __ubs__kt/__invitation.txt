@@ -1,0 +1,58 @@
+We will cover following topics:
+
+Python Big Picture
+Installing and starting python
+    -> REPL
+    -> Significant whitespace
+    -> Python standart library
+Scalar types, Operators, Control flow
+    -> int, float, bool
+    -> relational operators
+    -> IF statement
+    -> Wihle Loop
+Strings, Collections and Iteration
+    -> Strings
+    -> Bytes
+    -> Lists
+    -> Dictionaries
+    -> For Loop
+Modularity
+    -> Modules
+    -> Functions
+    -> Command line arguments
+    -> Docstrings
+    -> Comments
+Objects and types
+    -> Overview
+    -> Passing arguments and returning values
+    -> Function arguments
+    -> Python's type system
+    -> Scopes
+    -> Everyting is an object
+Built-in collections
+    -> Tuples
+    -> Strings
+    -> Ranges
+    -> Lists
+    -> Dictionaries
+    -> Sets
+    -> Protocols
+Exceptions
+Iteration and Iterables
+    -> Comprehensions
+    -> Iteration protocols
+    -> Generator functions
+    -> Maintaining state in Generators
+    -> Laziness and Infinite
+    -> Generator expressions
+    -> Iteration tools
+Classes
+    -> Define class
+    -> Instance methods
+    -> Instance initializer
+    -> Collaborating classes
+    -> Polymorphism
+    -> Inheritance
+File IO and resource management
+    -> Text files - open, read, write, close
+
